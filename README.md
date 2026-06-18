@@ -97,13 +97,6 @@ This dashboard enables banking stakeholders to monitor customer churn efficientl
 
 <img width="1443" height="800" alt="Bank Customer Churn Dashboard" src="https://github.com/user-attachments/assets/ea548cd8-ae93-4c2d-9bc4-9ed717ba1e6f" />
 
-
 ---
-
-## 👨‍💻 Author
-
-**Raj Singh**  
-Aspiring Data Analyst | SQL | Python | Excel | Power BI | Google Sheets
-
 **Raj Singh**  
 Aspiring Data Analyst | SQL | Python | Excel | Power BI | Google Sheets
